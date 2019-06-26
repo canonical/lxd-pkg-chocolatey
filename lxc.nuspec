@@ -25,6 +25,8 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <title>lxc (Install)</title>
     <authors>LXD upstream maintainers</authors>
     <projectUrl>https://linuxcontainers.org/lxd</projectUrl>
+    <iconUrl>https://linuxcontainers.org/static/img/containers.png</iconUrl>
+    <releaseNotes>https://linuxcontainers.org/lxd/news</releaseNotes>
     <licenseUrl>https://github.com/lxc/lxd/blob/master/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/lxc/lxd</projectSourceUrl>
