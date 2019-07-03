@@ -21,11 +21,11 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <id>lxc</id>
     <version>3.14</version>
     <packageSourceUrl>https://github.com/lxc/lxd-pkg-chocolatey</packageSourceUrl>
-    <owners>LXD usptream maintainers</owners>
+    <owners>stgraber</owners>
     <title>lxc (Install)</title>
     <authors>LXD upstream maintainers</authors>
     <projectUrl>https://linuxcontainers.org/lxd</projectUrl>
-    <iconUrl>https://linuxcontainers.org/static/img/containers.png</iconUrl>
+    <iconUrl>https://rawcdn.githack.com/lxc/linuxcontainers.org/92111aacd02473b808ce01bf631d3acc0f138983/static/img/containers.png</iconUrl>
     <releaseNotes>https://linuxcontainers.org/lxd/news</releaseNotes>
     <licenseUrl>https://github.com/lxc/lxd/blob/master/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>

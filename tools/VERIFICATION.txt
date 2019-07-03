@@ -4,3 +4,10 @@ in verifying that this package's contents are trustworthy.
  
 This is packaged by the upstream maintainers of the LXD project.
 The binaries come from the AppVeyor CI job that's run as part of our release process.
+.
+To track down the binary used for a particular version, go to:
+https://ci.appveyor.com/project/lxc/lxd/branch/lxd-VERSION/artifacts
+(e.g. https://ci.appveyor.com/project/lxc/lxd/branch/lxd-3.14/artifacts)
+.
+Grab the `lxc-VERSION-windows-amd64.zip` file, unpack and compare
+hash of `lxc.exe` inside to that in this package.
