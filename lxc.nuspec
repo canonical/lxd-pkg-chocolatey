@@ -4,7 +4,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>lxc</id>
-    <version>4.9</version>
+    <version>4.10</version>
     <packageSourceUrl>https://github.com/lxc/lxd-pkg-chocolatey</packageSourceUrl>
     <owners>stgraber</owners>
     <title>LXD client</title>
@@ -15,7 +15,7 @@
     <licenseUrl>https://github.com/lxc/lxd/blob/master/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/lxc/lxd</projectSourceUrl>
-    <docsUrl>https://lxd.readthedocs.io</docsUrl>
+    <docsUrl>https://linuxcontainers.org/lxd/docs/master</docsUrl>
     <bugTrackerUrl>https://github.com/lxc/lxd/issues</bugTrackerUrl>
     <tags>lxc lxd</tags>
     <summary>System container manager - client</summary>
