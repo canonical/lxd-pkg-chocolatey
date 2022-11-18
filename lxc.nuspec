@@ -4,7 +4,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>lxc</id>
-    <version>5.7</version>
+    <version>5.8</version>
     <packageSourceUrl>https://github.com/lxc/lxd-pkg-chocolatey</packageSourceUrl>
     <owners>stgraber</owners>
     <title>LXD client</title>
