@@ -4,19 +4,19 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>lxc</id>
-    <version>5.17</version>
-    <packageSourceUrl>https://github.com/lxc/lxd-pkg-chocolatey</packageSourceUrl>
-    <owners>stgraber</owners>
+    <version>5.19</version>
+    <packageSourceUrl>https://github.com/canonical/lxd-pkg-chocolatey</packageSourceUrl>
+    <owners>tomp</owners>
     <title>LXD client</title>
     <authors>LXD upstream maintainers</authors>
-    <projectUrl>https://linuxcontainers.org/lxd</projectUrl>
+    <projectUrl>https://ubuntu.com/lxd</projectUrl>
     <iconUrl>https://rawcdn.githack.com/lxc/linuxcontainers.org/92111aacd02473b808ce01bf631d3acc0f138983/static/img/containers.png</iconUrl>
-    <releaseNotes>https://linuxcontainers.org/lxd/news</releaseNotes>
-    <licenseUrl>https://github.com/lxc/lxd/blob/master/COPYING</licenseUrl>
+    <releaseNotes>https://discourse.ubuntu.com/t/lxd-5-19-has-been-released/39590s</releaseNotes>
+    <licenseUrl>https://github.com/canonical/lxd/blob/master/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <projectSourceUrl>https://github.com/lxc/lxd</projectSourceUrl>
-    <docsUrl>https://linuxcontainers.org/lxd/docs/master</docsUrl>
-    <bugTrackerUrl>https://github.com/lxc/lxd/issues</bugTrackerUrl>
+    <projectSourceUrl>https://github.com/canonical/lxd</projectSourceUrl>
+    <docsUrl>https://documentation.ubuntu.com/lxd/en/latest/</docsUrl>
+    <bugTrackerUrl>https://github.com/canonical/lxd/issues</bugTrackerUrl>
     <tags>lxc lxd</tags>
     <summary>System container manager - client</summary>
     <description>Client for the LXD container manager</description>
