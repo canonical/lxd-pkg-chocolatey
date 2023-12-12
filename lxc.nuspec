@@ -4,14 +4,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>lxc</id>
-    <version>5.19</version>
+    <version>5.20</version>
     <packageSourceUrl>https://github.com/canonical/lxd-pkg-chocolatey</packageSourceUrl>
     <owners>tomp</owners>
     <title>LXD client</title>
     <authors>LXD upstream maintainers</authors>
     <projectUrl>https://ubuntu.com/lxd</projectUrl>
     <iconUrl>https://rawcdn.githack.com/lxc/linuxcontainers.org/92111aacd02473b808ce01bf631d3acc0f138983/static/img/containers.png</iconUrl>
-    <releaseNotes>https://discourse.ubuntu.com/t/lxd-5-19-has-been-released/39590s</releaseNotes>
+    <releaseNotes>https://discourse.ubuntu.com/t/lxd-5-20-has-been-released/40865</releaseNotes>
     <licenseUrl>https://github.com/canonical/lxd/blob/master/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/canonical/lxd</projectSourceUrl>
