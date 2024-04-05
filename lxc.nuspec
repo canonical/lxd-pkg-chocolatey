@@ -19,7 +19,7 @@
     <bugTrackerUrl>https://github.com/canonical/lxd/issues</bugTrackerUrl>
     <tags>lxc lxd</tags>
     <summary>System container manager - client</summary>
-    <description>Client for the LXD container manager</description>
+    <description>CLI client for interacting with LXD</description>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
