@@ -4,14 +4,14 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>lxc</id>
-    <version>6.5</version>
+    <version>6.6</version>
     <packageSourceUrl>https://github.com/canonical/lxd-pkg-chocolatey</packageSourceUrl>
     <owners>tomp</owners>
     <title>LXD client</title>
     <authors>LXD upstream maintainers</authors>
     <projectUrl>https://ubuntu.com/lxd</projectUrl>
     <iconUrl>https://launchpadlibrarian.net/717404753/LXD%20tags%402x_square_192.png</iconUrl>
-    <releaseNotes>https://discourse.ubuntu.com/t/lxd-6-5-has-been-released/64873</releaseNotes>
+    <releaseNotes>https://discourse.ubuntu.com/t/lxd-6-6-has-been-released/72476</releaseNotes>
     <licenseUrl>https://github.com/canonical/lxd/blob/main/COPYING</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <projectSourceUrl>https://github.com/canonical/lxd</projectSourceUrl>
